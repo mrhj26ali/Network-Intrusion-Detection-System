@@ -1,0 +1,7 @@
+{
+  "input_dim": 77,
+  "normalization": "jumabek",
+  "loss": "BCEWithLogits(pos_weight)",
+  "batch_size": 1024,
+  "device": "cpu"
+}
